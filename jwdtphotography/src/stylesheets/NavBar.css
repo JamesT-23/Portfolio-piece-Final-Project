@@ -1,0 +1,51 @@
+a {
+    font-size: 1em;
+    margin-right:1em;
+}
+
+.landscapeImage {
+    filter: brightness(90%);
+    background-image: url("../img/scapeImg/AwardPhoto.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 800px;
+    width:100%;
+}
+
+.MountainBiking {
+    filter: brightness(90%);
+    background-image: url("../img/mtbImg/BrokenTire.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 800px;
+    width:100%;
+}
+
+.Wedding {
+    filter: brightness(90%);
+    background-image: url("../img/wedImg/WedReflection.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 800px;
+    width:100%;
+}
+
+.portfolioImage {
+    filter: brightness(90%);
+    background-image: url("../img/scapeImg/CoastPhoto.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 800px;
+    width:100%;
+}
+
+.AboutNav {
+    filter: brightness(90%);
+    background-image: url("../img/aboutImg.JPG");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 800px;
+    width:100%;
+}

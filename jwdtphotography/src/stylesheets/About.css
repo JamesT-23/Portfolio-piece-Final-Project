@@ -1,0 +1,11 @@
+#aboutCard {
+    text-align: left;
+    width: 85%;
+    background-color: #ffffff;
+    margin-top: 2.5em;
+    margin-bottom: 6em;
+}
+
+.aboutHeader {
+    font-size: 1.75em;
+}

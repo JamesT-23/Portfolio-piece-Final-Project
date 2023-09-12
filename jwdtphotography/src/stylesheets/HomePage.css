@@ -1,0 +1,86 @@
+#homeCard {
+    text-align: center;
+    width: 85%;
+    background-color: #ffffff;
+    margin-top: 2.5em;
+    margin-bottom: 6em;
+}
+
+#row1, #row2 {
+    margin-top: 0.5em;
+    margin-bottom: 5em;
+}
+
+#homeRow1 {
+    margin-top: 0.5em;
+    margin-bottom: 5em;
+    text-align: left;
+}
+
+#homeRow2 {
+    margin-top: 0.5em;
+    margin-bottom: 5em;
+    text-align: left;
+}
+
+#admnHmRow1, #admnHmRow2 {
+    margin-top: 0.5em;
+    margin-bottom: 5em;
+}
+.homeHeader {
+    font-size: 1.75em;
+}
+
+#buttonRow {
+    margin-top: 2em;
+}
+
+#instaEmbed {
+    text-align: center;
+}
+
+.inqRow {
+    padding-top: 2em;
+    margin-bottom: 2em;
+}
+
+.inqCard {
+    width: 80%;
+    margin-top: 1em;
+    margin-bottom: 2em;
+}
+
+.inqButtons {
+    padding-top: 2em;
+    padding-bottom: 1em5;
+}
+
+.accordianHeaderRow {
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+.contactDetails {
+    padding-top: 3.5em;
+    padding-bottom: 1em;
+}
+
+.WeddingInfo {
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+.MTBInfo {
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+.sizeWarning {
+    font-size: 1.5em;
+    color: red;
+    margin-top: 1em;
+}
+
+.PhotographerMessage{
+    padding-bottom: 2em;
+}
